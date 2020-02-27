@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DisneyMotions.iml" filepath="$PROJECT_DIR$/../DisneyMotions.iml" group="DisneyMotions" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="DisneyMotions/app" />
+    </modules>
+  </component>
+</project>
